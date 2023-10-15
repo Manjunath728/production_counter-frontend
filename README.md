@@ -15,3 +15,8 @@ npm i
 ### change the api url in  .env file
 ```javascript
 VITE_API_URL=http://localhost:3000
+
+now run vite
+```bash
+npm run dev
+```
